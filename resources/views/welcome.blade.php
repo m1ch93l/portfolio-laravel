@@ -63,6 +63,29 @@
 			</nav>
 			<!-- /.navbar -->
 
+			<!-- Main Sidebar Container -->
+			<aside class="main-sidebar sidebar-light-primary elevation-4">
+				<!-- Sidebar -->
+				<div class="sidebar">
+					<!-- Sidebar user panel (optional) -->
+					<div class="user-panel d-flex justify-content-center align-items-center mb-4 mt-4 pb-4">
+						<div class="image">
+							<img src="https://avatars.githubusercontent.com/u/91449532?v=4" class="img-circle elevation-2 rounded-circle"
+								alt="User Image" style="width: 150px; height: 150px;">
+						</div>
+					</div>
+
+					<!-- Sidebar Menu -->
+					<nav class="mt-2">
+						<div class="text-dark text-center">
+							<h1>MICHAEL B. BAÑARIA</h1>
+						</div>
+					</nav>
+					<!-- /.sidebar-menu -->
+				</div>
+				<!-- /.sidebar -->
+			</aside>
+
 		</div>
 
 	</body>
