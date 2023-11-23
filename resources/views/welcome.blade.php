@@ -80,6 +80,27 @@
 						<div class="text-dark text-center">
 							<h1>MICHAEL B. BAÑARIA</h1>
 						</div>
+						<div class="fs-5 mt-3 text-center">Connect with me</div>
+						<div class="container mx-1 mb-4 mt-4">
+							<div class="row text-center">
+								<div class="col-6">
+									<i class="fa-brands fa-github fa-beat fs-1"></i>
+								</div>
+								<div class="col-6">
+									<i class="fa-brands fa-linkedin fa-beat fs-1"></i>
+								</div>
+							</div>
+						</div>
+						<div class="container mx-1 mb-4 mt-4">
+							<div class="row text-center">
+								<div class="col-6">
+									<i class="fa-brands fa-square-twitter fa-beat fs-1"></i>
+								</div>
+								<div class="col-6">
+									<i class="fa-brands fa-facebook fa-beat fs-1"></i>
+								</div>
+							</div>
+						</div>
 					</nav>
 					<!-- /.sidebar-menu -->
 				</div>
