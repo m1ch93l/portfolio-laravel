@@ -86,6 +86,15 @@
 				<!-- /.sidebar -->
 			</aside>
 
+			{{-- Content wrapper. Contains page content. --}}
+			<div class="content-wrapper">
+				<!-- Main content -->
+				<section class="content">
+
+				</section>
+				<!-- /.content -->
+			</div>
+
 		</div>
 
 	</body>
